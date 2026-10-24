@@ -6,3 +6,15 @@ while count<=5:
         if number ==5:
             break
         print(number)
+i = 1
+
+while i <= 5:
+    print(i)
+    i += 1
+
+    
+friut=["orange","apple","lemon"]
+for iteam in friut:
+     print(iteam)
+    
+      
